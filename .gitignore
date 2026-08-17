@@ -1,0 +1,38 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+*.cmake
+!CMakeLists.txt
+
+# Compiled objects/binaries
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.pdb
+*.ilk
+
+# vcpkg (if used locally, don't commit the whole toolchain)
+vcpkg_installed/
+
+# IDE / editor
+.vscode/
+.idea/
+.clangd/
+.cache/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
