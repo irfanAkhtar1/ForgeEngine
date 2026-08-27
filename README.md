@@ -1,4 +1,4 @@
-# ForgeEngine
+# ForgeEngine 0.1.0
 
 > 🔨 Part of **Operation Blacksmith** — a self-driven initiative to build my own game dev tools from scratch (ForgeEngine, [PixelForge](#), ForgeStudio), then build my own games with them. This is engine #1: done, and it works.
 
