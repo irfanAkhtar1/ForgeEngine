@@ -4,7 +4,7 @@
 
 A lightweight 2D game engine written in **C++17** with **SDL2**, built from scratch.
 
-> 📹 [**Watch the ForgeEngine demo**]
+> 📹 [**Watch the ForgeEngine demo**] (I know its very low effort im working on a proper demo as well 🙂️)
 >
 > https://github.com/user-attachments/assets/cdcc1e6b-2c9e-46b0-b660-22159bd0b20c
 
