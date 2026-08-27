@@ -4,7 +4,7 @@
 
 A lightweight 2D game engine written in **C++17** with **SDL2**, built from scratch.
 
-> ⚠️ Demo GIF/video coming soon — recorded, editing in progress.
+> [📹 Watch the ForgeEngine Demo](Demo/ForgeEngine-Demo.mp4)
 
 ForgeEngine handles the boring, easy-to-get-wrong parts of making a 2D game — rendering, input, camera follow, physics, collision, Tiled map loading, audio, animation, and scene management — so you can focus on building the actual game.
 
